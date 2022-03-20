@@ -3,3 +3,19 @@ body{
     font-family: 'Courier New', Courier, monospace;
     color: darkslategray;
 }
+
+div.Post{
+    background-color: darkslategray;
+    color: azure;
+    width: 50%;
+    margin: auto;
+    padding: 60px;
+}
+
+div.content{
+    width: 100%;
+}
+
+div.content img{
+    width: 100%;
+}
